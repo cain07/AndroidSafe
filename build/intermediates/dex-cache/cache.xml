@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/project_181029/AndroidSafe/CainSafe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Documents/project_181029/AndroidSafe/CainSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5dcd4af18117005a71460009621c1913677ec020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/AndroidStudioProjects/CainSafe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ca1b29946c298dd261826406dfe1528b45d73653">
+        <dex dex="/Users/apple/Documents/AndroidStudioProjects/CainSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a05eb427bd71a834f9bce0105df53c412be32b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/AndroidStudioProjects/CainSafe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Documents/AndroidStudioProjects/CainSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c422e0198d54ac842cbda33f87ddf0d217a10b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/project_181029/AndroidSafe/CainSafe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="62247fdaa0d1a82b0e4fbe8771b64b43030031c3">
+        <dex dex="/Users/apple/Documents/project_181029/AndroidSafe/CainSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_637aa05a3dbb3014df661480efe478cdd9cf8704/classes.dex" />
+    </item>
+
+</items>
