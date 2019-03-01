@@ -31,6 +31,7 @@ public class MainActivity extends Activity {
         });
 
 
+
         Log.e(Tag, "getSignature==" + getSignature("cain.cainsafe"));
         if (getSignature("cain.cainsafe") != 191077279) {
             Log.e(Tag, "被重新打包了");
